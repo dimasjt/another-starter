@@ -1,0 +1,19 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dimas J. Taniawan",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router": "^4.2.0",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
